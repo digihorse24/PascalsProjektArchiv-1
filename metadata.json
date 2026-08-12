@@ -1,0 +1,7 @@
+{
+  "name": "VisionFlow AI: Image & Video Studio",
+  "description": "A high-end creative suite for generating high-quality AI images and cinematic videos using Gemini 2.5 Flash and Veo 3.1 models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
